@@ -1,0 +1,2 @@
+# Cloud Native com Kotlin
+Aprenda a construir uma aplicação nativa na nuvem, usando Kotlin! Cloud Native é uma abordagem no desenvolvimento de software que utiliza a computação em nuvem para "criar e executar aplicativos escaláveis em ambientes modernos e dinâmicos, como nuvens públicas, privadas e híbridas". E nesta formação você vai aprender tudo isso, utilizando Kotlin e Kubernetes.
